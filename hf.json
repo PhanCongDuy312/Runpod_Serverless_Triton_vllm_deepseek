@@ -1,0 +1,10 @@
+{
+    "token": "your_api_key",
+    "models": [
+      {
+        "name": "your_hf_model_path",
+        "ref": "v1",
+        "token": "your_api_key"
+      }
+    ]
+  }
